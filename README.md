@@ -1,6 +1,7 @@
 # BlackJack
 
- _     _            _    _            _    
+"""
+_     _            _    _            _    
 | |   | |          | |  (_)          | |   
 | |__ | | __ _  ___| | ___  __ _  ___| | __
 | '_ \| |/ _` |/ __| |/ / |/ _` |/ __| |/ /
@@ -9,7 +10,7 @@
                        _/ |                
                       |__/                 
 
-
+"""
 ## Requirements
 (To locally run the code without .jar file)
 Java 8
